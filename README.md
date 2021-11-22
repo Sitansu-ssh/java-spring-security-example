@@ -17,3 +17,4 @@ Please see the article [here](https://www.toptal.com/spring/spring-security-tuto
 - [JWT](https://jwt.io) Based Stateless Authentication
 - Role Based Authorization
 - Integration Testing
+i love you beta
